@@ -1,0 +1,25 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Emerson Gonçalves",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.10",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+  
+           
+  
+}
